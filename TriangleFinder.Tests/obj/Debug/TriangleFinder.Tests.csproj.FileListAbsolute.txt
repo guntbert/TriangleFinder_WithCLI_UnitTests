@@ -1,0 +1,20 @@
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\obj\Debug\TriangleFinder.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\TriangleFinder.Tests.dll
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\TriangleFinder.Tests.pdb
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\CL_QA_ Assignment2.exe
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\nunit.core.dll
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\nunit.util.dll
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\CL_QA_ Assignment2.pdb
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\obj\Debug\TriangleFinder.Tests.dll
+C:\Users\Cody-Ray\Desktop\CL_QA_ Assignment2\TriangleFinder.Tests\obj\Debug\TriangleFinder.Tests.pdb
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\TriangleFinder.Tests.dll
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\TriangleFinder.Tests.pdb
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\CL_QA_ Assignment2.exe
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\nunit.framework.dll
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\CL_QA_ Assignment2.pdb
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\bin\Debug\nunit.framework.xml
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\obj\Debug\TriangleFinder.Tests.csprojResolveAssemblyReference.cache
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\obj\Debug\TriangleFinder.Tests.dll
+G:\CL_QA_ Assignment2\TriangleFinder.Tests\obj\Debug\TriangleFinder.Tests.pdb
